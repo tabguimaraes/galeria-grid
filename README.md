@@ -1,7 +1,7 @@
 # Galeria Grid
 
 <div style="text-align: center;">
-<img style="border-radius: 10px" src="https://tabguimaraes.github.io/galeria-grid" alt="Galeria Flexbox" width="200" height="auto" /></div>
+<img style="border-radius: 10px" src="[https://tabguimaraes.github.io/galeria-grid/](https://tabguimaraes.github.io/galeria-grid/)" alt="Galeria Flexbox" width="200" height="auto" /></div>
 
 ## Descrição
 
